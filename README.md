@@ -1,2 +1,2 @@
 # letterselfintroduction
-자기소개서 초안 
+자기소개서 v.3
